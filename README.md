@@ -2,13 +2,13 @@
 <h3 align="left">Full Stack Python Developer</h3>
 
 <p align="left">
-  <a href="https://github.com/MonzerMahmoud">
+  <a href="https://github.com/Monzerarby20">
     <img src="https://komarev.com/ghpvc/?username=monzermahmoud" alt="profile views" />
   </a>
-  <a href="https://github.com/MonzerMahmoud?tab=followers">
+  <a href="https://github.com/Monzerarby20?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/MonzerMahmoud?style=flat&logo=github">
   </a>
-  <a href="https://www.linkedin.com/in/monzer-mahmoud">
+  <a href="https://www.linkedin.com/in/monzer-mahmoud-208499215">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin">
   </a>
 </p>
