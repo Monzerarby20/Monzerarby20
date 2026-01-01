@@ -76,9 +76,9 @@
 
 ### 📫 Contact Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/monzer-mahmoud  
-- 🐙 GitHub: https://github.com/MonzerMahmoud  
-- 📧 Email: *(ضيفه لو حابب)*  
+- 💼 LinkedIn: https://www.linkedin.com/in/monzer-mahmoud-208499215  
+- 🐙 GitHub: https://github.com/Monzerarby20
+- 📧 Email: monzermahmoud77@gmail.com 
 
 ---
 
